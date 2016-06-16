@@ -1,0 +1,3 @@
+# ignore idea stuff and python compiled
+.idea/*
+*.py[cdo]
