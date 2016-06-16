@@ -4,7 +4,5 @@
 plain english --> ₮Я∆Ᵽ ϨῌỊ₮
 
 Usage:
-```
-echo 'text' | translate.py [-]
-translate.py TEXTFILE [TEXTFILE [...]]
-```
+  $ echo 'text' | translate.py [-]
+  $ translate.py TEXTFILE [TEXTFILE [...]]
