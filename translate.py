@@ -20,7 +20,7 @@ E2T = {
     u'M': u'\u03fa',
     u'N': u'\u0418',
     u'O': u'\xd8',
-    u'P': u'\u2c68',
+    u'P': u'\u2c63',
     u'Q': u'Q', # does not get translated
     u'R': u'\u042f',
     u'S': u'\u03e8',
